@@ -14,7 +14,7 @@ La rakonto «La Detektivejo de Esperantista Zoroastrano Numero Unu» estas dispo
 
 Bonvolu rimarki, ke la GitHub-deponejo enhavas la kanonan version de la rakonto:
 
-https://github.com/delphicventurescode/NUMBER_ONE_numberOneJewishZoro__priv/blob/main/ESP1__esperantoVersion/1__RankontoUnu_Navjote/Chapt4.md
+https://github.com/delphicventurescode/NUMBER_ONE_numberOneJewishZoro__priv/
 
 [+]
 
